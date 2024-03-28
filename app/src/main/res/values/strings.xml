@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News feed</string>
+    <string name="app_logo">app_logo</string>
+    <string name="title_activity_full_news">fullNewsActivity</string>
+</resources>
